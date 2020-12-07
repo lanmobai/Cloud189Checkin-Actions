@@ -8,7 +8,7 @@ password = ""
 
 
 #Server酱报错推送提醒，需要填下下面的key，官网：https://sc.ftqq.com/3.version
-SCKEY = ""
+SCKEY = "SCU133335T4a451db6994d5a6b77a510a3a47358255fcdd340bcd59"
 #推送url
 scurl = f"https://sc.ftqq.com/{SCKEY}.send"
 
